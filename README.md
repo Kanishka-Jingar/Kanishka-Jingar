@@ -1,6 +1,6 @@
 ###
 Hi there! 👋 I'm Kanishka 
-A 4th-year [CSE student] specializing in [AI], I'm passionate about the exciting fusion of art and technology. My focus is on [web development], crafting engaging digital experiences through UI/UX design and relevant tools.
+A 4th-year CSE student specializing in AI, I'm passionate about the exciting fusion of art and technology. My focus is on web development, crafting engaging digital experiences through UI/UX design and relevant tools.
 
 -🔭 I'm currently working on: Developing AI-driven web applications with intuitive user interfaces.<br />
 
